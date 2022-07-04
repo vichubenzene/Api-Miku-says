@@ -1,7 +1,12 @@
 # Api-Miku-says
 Api to get inspiring random `Quotes` and random `Topics` to talk about
 
-content Contributions are always welcomed
+> Base url : https://miku-says.benzene002.repl.co/
+
+[Quotes](https://miku-says.benzene002.repl.co/quote) ||
+[Topic](https://miku-says.benzene002.repl.co/topic)
+
+content Contributions are always welcomed with love and respect.. Join discord server for contact [server link](https://discord.com/invite/cyKAjwcZdB)
 
 Quotes:
 ```py
