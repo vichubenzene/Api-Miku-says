@@ -20,9 +20,9 @@ print(quote['author'])
 print(quote['quote'])
 ```
 ```console
->>{'author': 'Charlie Chaplin', 'quote': 'The deeper the truth in a creative work, the longer it will live.  '}
->>Charlie Chaplin
->>The deeper the truth in a creative work, the longer it will live. 
+>> {'author': 'Charlie Chaplin', 'quote': 'The deeper the truth in a creative work, the longer it will live.  '}
+>> Charlie Chaplin
+>> The deeper the truth in a creative work, the longer it will live. 
 ```
 
 Topics:
@@ -35,5 +35,5 @@ topic = json.loads(r.text)
 print(topic)
 ```
 ```console
->>Do you think that VR (virtual reality) will become mainstream in the near future?
+>> Do you think that VR (virtual reality) will become mainstream in the near future?
 ```
