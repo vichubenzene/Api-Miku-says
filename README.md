@@ -2,9 +2,17 @@
 Api to get inspiring random `Quotes` and random `Topics` to talk about
 
 > Base url : https://miku-says.benzene002.repl.co/
+> 
+> <img src="https://imgur.com/Pkz7Kez.jpg" height="50%" width="40%"/>
 
-[Quotes](https://miku-says.benzene002.repl.co/quote) ||
-[Topic](https://miku-says.benzene002.repl.co/topic)
+
+> [Quotes](https://miku-says.benzene002.repl.co/quote) 
+> 
+> <img src="https://imgur.com/vw1D7Re.jpg" height="70%" width="70%"/>
+
+> [Topic](https://miku-says.benzene002.repl.co/topic)
+> 
+> <img src="https://imgur.com/tOHk51G.jpg" height="70%" width="70%"/>
 
 content Contributions are always welcomed with love and respect.. Join discord server for contact [server link](https://discord.com/invite/cyKAjwcZdB)
 
